@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Honk&display=swap');
+
+.container{
+    background-color: rgb(20, 21, 21);
+}
+.heading{
+margin-top: 0;
+width: 100%;
+
+}
+h7{
+    user-select: none;
+    font-size: 80px;
+    font-family: Honk;
+    width: 100%;
+    font-weight:700;
+    margin-left:28%;
+    color: rgb(0, 136, 255);
+}
